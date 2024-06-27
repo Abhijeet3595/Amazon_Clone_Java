@@ -1,6 +1,6 @@
 # Amazon_Clone_Java
 
-# Amazon_Clone_Java
+
 Amazon Clone
 Welcome to the Amazon Clone project! This repository contains a full-stack web application that mimics the core functionalities of the popular e-commerce platform, Amazon.
 
@@ -59,7 +59,8 @@ The page is designed to be responsive, ensuring it looks good on various devices
 Clear labels and button text enhance usability, ensuring users understand what actions they can take.
 This login page is straightforward and user-friendly, designed to provide a seamless sign-in experience while adhering to Amazon’s familiar styling and layout conventions.
 
-![Sign-in](https://github.com/Avishkar709/Amazon_Clone_Java/assets/165990602/b66c0046-6c14-4f71-b79b-f9b673ed6bb5)
+![Sign-in](https://github.com/Abhijeet3595/Amazon_Clone_Java/assets/174009860/5f9af70f-7c69-419c-bed2-ae50b8f8f18f)
+
 
 Sign-Up Page Explanation
 
@@ -89,7 +90,8 @@ The page is designed to be responsive, ensuring it looks good on various devices
 Clear labels and button text enhance usability, ensuring users understand what actions they can take.
 This sign-up page is designed to provide a straightforward and user-friendly registration experience while adhering to Amazon’s familiar styling and layout conventions.
 
-![Sign-Up](https://github.com/Avishkar709/Amazon_Clone_Java/assets/165990602/74a8aa80-fb8d-410c-8046-20016e948648)
+![Sign-Up](https://github.com/Abhijeet3595/Amazon_Clone_Java/assets/174009860/126d7241-bebe-4868-9581-d5fab2c2f1c7)
+
 
 Amazon Clone Home Page Explanation
 
@@ -127,13 +129,17 @@ The page is designed to be responsive (meta viewport tag included) and provides 
 This home page replicates the layout and functionality of Amazon's main page, providing a familiar browsing experience for users.
 
 
-![Home-1](https://github.com/Avishkar709/Amazon_Clone_Java/assets/165990602/5b3eaf76-5de6-4d53-a29d-c8087b3d3c28)
+![Home-1](https://github.com/Abhijeet3595/Amazon_Clone_Java/assets/174009860/85fdd1b8-34cb-4a1f-a7dc-1b113b08589d)
 
-![Home-2](https://github.com/Avishkar709/Amazon_Clone_Java/assets/165990602/db528285-1a9a-49ce-919a-135b486b9f5d)
 
-![Home-3](https://github.com/Avishkar709/Amazon_Clone_Java/assets/165990602/db9567ec-deae-417d-b5cf-8bf90676f0d1)
+![Home-2](https://github.com/Abhijeet3595/Amazon_Clone_Java/assets/174009860/d41e6309-c9ae-4602-b39e-a79ea24eb91c)
 
-![Home-4](https://github.com/Avishkar709/Amazon_Clone_Java/assets/165990602/50e7967b-a2ff-4975-8ff9-8f3246510f1d)
+
+![Home-3](https://github.com/Abhijeet3595/Amazon_Clone_Java/assets/174009860/181a41db-a5fd-46de-ae46-79adeb815aef)
+
+
+![Home-4](https://github.com/Abhijeet3595/Amazon_Clone_Java/assets/174009860/145c3873-e047-42f6-bce8-d467dae2dbbf)
+
 
 Product' Page Explanation
 
@@ -171,9 +177,11 @@ Interaction: Enables users to interact with the page through actions like adding
 Responsive Design: Designed to be responsive with mobile-friendly elements like collapsible navigation and responsive images.
 This structure and functionality aim to replicate the user experience found on e-commerce platforms like Amazon, providing comprehensive product information and intuitive navigation.
 
-![Product-1](https://github.com/Avishkar709/Amazon_Clone_Java/assets/165990602/8a2ab78d-ec3d-444f-ac22-533dfa673daa)
+![Product-1](https://github.com/Abhijeet3595/Amazon_Clone_Java/assets/174009860/7d2519ce-8aeb-48d9-84c4-2fc945b6e074)
 
-![Product-2](https://github.com/Avishkar709/Amazon_Clone_Java/assets/165990602/30ce5ffb-206d-455b-9307-661be8a29298)
+
+![Product-2](https://github.com/Abhijeet3595/Amazon_Clone_Java/assets/174009860/2e756f12-44a7-4746-91e8-727ed492fdd8)
+
 
 Cart Page Explanation
 
@@ -207,9 +215,11 @@ Script Section:
 Includes JavaScript to enable horizontal scrolling for the products slider when the user scrolls within it.
 This product page is designed with a clear layout, detailed product information, and user-friendly navigation, aiming to enhance the shopping experience by providing essential details and easy access to various sections of the Amazon platform.
 
-![Cart-1](https://github.com/Avishkar709/Amazon_Clone_Java/assets/165990602/ecb28ba6-22b8-4ef9-9515-5a7c961ee881)
+![Cart-1](https://github.com/Abhijeet3595/Amazon_Clone_Java/assets/174009860/4afbde95-3cda-45ac-9fe9-71db809267bf)
 
-![Cart-2](https://github.com/Avishkar709/Amazon_Clone_Java/assets/165990602/80ec45e7-853a-40d9-a560-7e4d6c5231b5)
+
+![Cart-2](https://github.com/Abhijeet3595/Amazon_Clone_Java/assets/174009860/6fe7810d-72e7-4406-82c5-b829144cf288)
+
 
 Today's Deal's Page Explanation
 
@@ -243,9 +253,11 @@ Includes jQuery and Popper.js for enhancing interactivity and Bootstrap function
 Ensures smooth carousel sliding and dropdown menu behaviors.
 This structure ensures that the Amazon clone product page is visually appealing, functional across different devices, and provides a seamless user experience similar to the original Amazon site.
 
-![Today's Deals](https://github.com/Avishkar709/Amazon_Clone_Java/assets/165990602/13b4a008-95f1-406a-bdea-6a007facf5d6)
+![Today's Deals](https://github.com/Abhijeet3595/Amazon_Clone_Java/assets/174009860/9592d244-05b4-4c1e-8311-cd8d53b8d40f)
 
-![Today's Deals-2](https://github.com/Avishkar709/Amazon_Clone_Java/assets/165990602/b04b33e3-6112-48a5-bae4-2f26200e5d01)
+
+![Today's Deals-2](https://github.com/Abhijeet3595/Amazon_Clone_Java/assets/174009860/4debcef1-c329-4d2e-a4c1-932a6956c54b)
+
 
 Selle'r Page Explanation 
 
@@ -267,7 +279,8 @@ Visual Element:
 An image of a person holding a sign that reads "OPPORTUNITY TO GET BENEFITS WORTH ₹25,000*".
 This page aims to attract new sellers to join the Amazon.in marketplace by highlighting potential benefits and providing a straightforward call-to-action button to start the selling process.
 
-![For-Seller's](https://github.com/Avishkar709/Amazon_Clone_Java/assets/165990602/a0c5e2a9-577d-47c5-b0e3-e6b980ce0df7)
+![For-Seller's](https://github.com/Abhijeet3595/Amazon_Clone_Java/assets/174009860/2da52058-5165-404c-b381-a0886b2657af)
+
 
 Customer Service Page Explanation
 
@@ -303,9 +316,11 @@ Scripts:
 At the end of the body, external scripts for jQuery, Popper.js, and Bootstrap are included to add functionality and interactivity to the page.
 This HTML structure and content aim to provide a user-friendly interface for Amazon customers to find help and support for various issues they may encounter while using Amazon's services.
 
-![Customer-Service-1](https://github.com/Avishkar709/Amazon_Clone_Java/assets/165990602/4493e676-b526-4beb-9aba-8accf46cdc6d)
+![Customer-Service-1](https://github.com/Abhijeet3595/Amazon_Clone_Java/assets/174009860/abf5ddb7-78c0-4ef8-9fd6-3ee80d596243)
 
-![Customer-Service-2](https://github.com/Avishkar709/Amazon_Clone_Java/assets/165990602/21bc2fad-6747-4cee-9cc5-6980baebe3c3)
+
+![Customer-Service-2](https://github.com/Abhijeet3595/Amazon_Clone_Java/assets/174009860/d9a4fc56-cc91-4010-8a85-5a214b5e40af)
+
 
 ### JavaScript Code Overview:
 
@@ -639,6 +654,7 @@ CREATE TABLE signup (
 The SQL statement creates a table named `signup` with three columns (`name`, `mobile`, and `pass`), all of which can store strings up to 100 characters in length.
 
 
-![SQL-Data](https://github.com/Avishkar709/Amazon_Clone_Java/assets/165990602/e1f18fb5-61c8-43c3-9b75-5dd0f846a303)
+![SQL-Data](https://github.com/Abhijeet3595/Amazon_Clone_Java/assets/174009860/be02b5a0-9e21-4cb6-b4b5-d2ca2ef87ea6)
+
 
 
